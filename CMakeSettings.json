@@ -1,0 +1,16 @@
+﻿{
+  "configurations": [
+    {
+      "name": "x64-Debug",
+      "generator": "Visual Studio 16 2019 Win64",
+      "configurationType": "Debug",
+      "inheritEnvironments": [ "msvc_x64_x64" ],
+      "buildRoot": "${projectDir}\\out\\build\\${name}",
+      "installRoot": "${projectDir}\\out\\install\\${name}",
+      "cmakeCommandArgs": "", 
+      "ctestCommandArgs": "",
+      "intelliSenseMode": "windows-msvc-x64",
+      "cmakeExecutable": "D:/ProgramFiles/cmake/cmake-3.14.6-win64-x64/bin/cmake.exe"
+    }
+  ]
+}
